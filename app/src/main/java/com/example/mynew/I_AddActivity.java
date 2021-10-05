@@ -21,7 +21,7 @@ public class I_AddActivity extends AppCompatActivity {
     EditText title,name,number,email,des,adurl;
     Button ibtnAdd,ibtnBack;
 
-
+//decclare variables
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
